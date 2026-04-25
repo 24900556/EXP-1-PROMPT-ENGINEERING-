@@ -35,7 +35,7 @@ Models inherently reflect and can amplify the prejudices, stereotypes, and biase
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da932f78-de1a-4db2-9d35-6c472cbc03c9" />
 
-<img width="1536" height="1024" alt="WhatsApp Image 2026-04-25 at 10 38 07 PM" src="https://github.com/user-attachments/assets/1a5fb77d-6064-4c02-89dc-5146b4bdf085" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/77e839c6-1f88-402b-946d-e882e245affd" />
 
 
 ## Result
