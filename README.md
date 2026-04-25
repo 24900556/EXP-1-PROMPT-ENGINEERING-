@@ -33,9 +33,10 @@ Models inherently reflect and can amplify the prejudices, stereotypes, and biase
  
    6. Applications of Generative AI: Generative AI is not just a theoretical concept; it is widely actively deployed in numerous fields to solve real-world problems: Education: * Powering automated, personalized tutoring systems. Generating custom course materials and study aids. Healthcare: * Assisting in rapid medical report and summary generation. Accelerating drug discovery by simulating molecular combinations. Business & Enterprise: * Deploying intelligent, context-aware chatbots. Automating complex customer support and service pipelines. Entertainment & Media: * Creating high-fidelity image generation for digital art. Assisting in music composition and dynamic video creation. Software Development: * Providing instantaneous code generation and auto-completion. Offering automated debugging and code refactoring assistance.
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da932f78-de1a-4db2-9d35-6c472cbc03c9" />
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/77e839c6-1f88-402b-946d-e882e245affd" />
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da932f78-de1a-4db2-9d35-6c472cbc03c9" />
 
 
 ## Result
